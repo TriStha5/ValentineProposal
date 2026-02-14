@@ -4,12 +4,12 @@ import { ImageIcon } from "lucide-react"
 import Image from "next/image"
 
 const photos = [
-  { src: "/images/photo-1.jpg", alt: "A beautiful romantic sunset moment" },
-  { src: "/images/photo-2.jpg", alt: "A cozy couple moment with flowers" },
-  { src: "/images/photo-3.jpg", alt: "A romantic candlelit scene" },
-  { src: "/images/photo-4.jpg", alt: "Love letters and roses" },
-  { src: "/images/photo-5.jpg", alt: "A beautiful garden of roses" },
-  { src: "/images/photo-6.jpg", alt: "Heart-shaped nature and scenery" },
+  { src: "/images/photo-1.jpg", alt: "A beautiful romantic dinner moment." },
+  { src: "/images/photo-2.jpg", alt: "A beautiful cozy love-filled moment." },
+  { src: "/images/photo-3.jpg", alt: "A quiet table where love lingers between bites." },
+  { src: "/images/photo-4.jpg", alt: "She carries art in her soul and sunlight in her hair." },
+  { src: "/images/photo-5.jpg", alt: "In your gaze, the whole world feels closer." },
+  { src: "/images/photo-6.jpg", alt: "A memory destined to last forever." },
 ]
 
 const rotations = ["-rotate-2", "rotate-1", "-rotate-1", "rotate-2", "-rotate-1", "rotate-1"]
